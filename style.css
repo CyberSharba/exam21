@@ -1,0 +1,146 @@
+body{
+    font-family: "Trirong", serif;
+    margin: 0%;
+}
+h1{
+    font-size: 50px;
+}
+
+.aa{
+    display: flex;
+}
+.bb{
+    margin-top: 20px;
+    margin-left: 95px;
+    margin-right: 100px;
+}
+.ee{
+    margin-right: 10%;
+    font-family: 'Alegreya Sans';
+    
+}
+.ff{
+    color: rgb(218, 94, 41);
+}
+.dd{
+    background-color: rgb(218, 41, 41);
+    text-decoration: none;
+    border-radius: 2px;
+    padding: 5px 15px;
+    color: aliceblue;
+}
+.cc{
+    margin-top: 5%;
+    margin-right: 20%;
+}
+.hh{
+    color: rgb(5, 5, 40);
+    text-align: center;
+}
+.nn{
+    
+        box-sizing: border-box;
+      
+}
+.nn{
+    display: inline;
+}
+.column1{
+    margin-left: 100px;
+    
+    
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 3px;
+    background-color: rgb(230, 255, 254);
+    border-radius: 10px;
+}
+.column2{
+    margin-left: 15px;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 3px;
+    background-color: rgb(245, 239, 239);
+    border-radius: 10px;
+}
+.column3{
+    margin-left: 15px;
+    margin-right: 100px;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 3px;
+    background-color: rgb(253, 244, 234);
+    border-radius: 10px;
+}
+.columns{
+    display: flex;
+    
+}
+.kk{
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 20px;
+    
+    
+}
+.nn{
+    
+    border-radius: 10px;
+      
+}
+.mm{
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 90px;
+    margin-bottom: 30px;
+}
+.qq{
+    font-size: 30px;
+}
+.pp{
+    margin-top: 30px;
+    margin-left: 80px;
+    margin-right: 40px;
+}
+.ss{
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-right: 40px;
+}
+.tt{
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right: 90px;
+}
+.uu{
+    background:black;
+    padding: 10px 20px;
+    margin: none;
+}
+.yy{
+    margin: 0%;
+    
+    text-align: center;
+
+}
+.xx{
+    margin-top: 10px;
+    font-family: 'Aguafina Script';font-size: 22px;
+    color:white;
+}
+.zz{
+    color: rgb(232, 65, 65);
+}
+.yz{
+    margin-bottom: 20px;
+    color: white;
+    font-size: 10px;
+}
+.ab{
+    border-left: 3px solid rgb(241, 75, 75) ;
+    border-radius: 3px;
+    
+}
